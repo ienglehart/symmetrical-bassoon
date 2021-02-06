@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "engines": {
+    "npm":"v12.18.4"
+  },
   "start:dev": "webpack-dev-server",
   "scripts": {
     "webpack": "webpack --watch",
