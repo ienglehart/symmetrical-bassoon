@@ -1,0 +1,20 @@
+
+{
+    "name": "Budget Tracker",
+    "short_name": "Budget",
+    "description": "An app to track your budget on the go.",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+          "src": "/public/icons/icons-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/public/icons/icons-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+}
