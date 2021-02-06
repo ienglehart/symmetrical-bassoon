@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "engines": {
-    "npm":"v12.x"
+    "npm":"12.x"
   },
   "start:dev": "webpack-dev-server",
   "scripts": {
