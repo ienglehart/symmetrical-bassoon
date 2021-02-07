@@ -10,8 +10,9 @@
   "scripts": {
     "webpack": "webpack --watch",
     "build": "webpack",
-    "start:dev": "webpack-dev-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:prod": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "heroku-postbuild" : "cd client && npm run build"
   },
   "repository": {
     "type": "git",
