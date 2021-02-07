@@ -11,7 +11,6 @@
     "webpack": "webpack --watch",
     "build": "webpack",
     "start:dev": "webpack-dev-server",
-    "install":"npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
